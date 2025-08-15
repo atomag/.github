@@ -1,16 +1,11 @@
-# Atom Ag
+# Atom AG
 
-**Atomistic intelligence from Liechtenstein**  
+**Building Atomistic Intelligence**  
 We build **machine‑learned interatomic potentials (MLIP)** and **ML‑accelerated DFT** to make materials modelling faster and more reliable.
 
-## What we do
-- **MLIP** for large‑scale MD and materials screening  
-- **ML‑accelerated DFT**: surrogates, smart initialisation, and convergence aids  
-- **Active‑learning loops** with uncertainty quantification (UQ)
-
 ## Status
-Early stage — private pilots with research partners.  
-e3nn-mlx is WORKING now!
+e3nn-mlx is WORKING now!  
+gxtb-torch is WORKING for non-periodic systems!
 
 ## Get in touch
 **Email:** contact [] atom.li
